@@ -40,14 +40,14 @@ _npm start_
 
 DataBase: MongoDB
 
-Backend: 
+Backend: requirements.txt
 
 # Features:
 
-- Data Upload and Preview: Upload and preview workforce data from CSV or Excel files.
-- Automated EDA (Exploratory Data Analysis): Perform automatic EDA with insightful visualizations.
-- Visualization Generation: Generate interactive charts like bar, pie, donut, and bubble charts.
-- Report Generation: Automatic generation of summarized insights and text reports for visualizations.
-- Meeting Scheduler: Schedule team meetings directly from the dashboard.
-- Project Allocation: Automatically assign projects to employees based on specific parameters (e.g., job satisfaction).
-- Downloadable Reports: Download text-based or word-based reports generated from insights.
+- Data Upload and Preview:   Upload and preview workforce data from CSV or Excel files.
+- Automated EDA (Exploratory Data Analysis):   Perform automatic EDA with insightful visualizations.
+- Visualization Generation:   Generate interactive charts like bar, pie, donut, and bubble charts.
+- Report Generation:   Automatic generation of summarized insights and text reports for visualizations.
+- Meeting Scheduler:   Schedule team meetings directly from the dashboard.
+- Project Allocation:   Automatically assign projects to employees based on specific parameters (e.g., job satisfaction).
+- Downloadable Reports:   Download text-based or word-based reports generated from insights.
